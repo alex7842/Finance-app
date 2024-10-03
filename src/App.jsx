@@ -67,11 +67,11 @@ switch(no){
             <br/>
             <p style={{color:"black",textAlign:"center"}}>Our platform offers a suite of tools to help you take control of your financial life, from budgeting and investment tracking to personalized insights and recommendations.</p>
         </div>
-    <div class="features-content" >
+    <div class="features-content"  >
         
-        <div class="features-list" >
+        <div class="features-list" style={{marginLeft:"60%",display:"flex",flexDirection:"row",gap:"5%"}}>
             <div class="feature-item">
-                <div class="feature-card">
+                <div class="feature-card" style={{padding:"20px"}}>
                     <h3>Budgeting Made Easy</h3>
                     <p>Effortlessly track your income and expenses, set budgets, and receive personalized recommendations to help you achieve your financial goals.</p>
                 </div>
