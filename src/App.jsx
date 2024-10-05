@@ -39,9 +39,9 @@ switch(no){
             </a>
             <nav class="nav">
                 <a href="#" >Features</a>
-                <a href="">Pricing</a>
-                <a href="">About</a>
-                <a href="">Contact</a>
+                <a href="#">Pricing</a>
+                <a href="#">About</a>
+                <a href="#">Contact</a>
             </nav>
         </header>
         <main>
