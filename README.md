@@ -2,4 +2,4 @@
 
 # Key Features
 -Maintain user Expenses and Savings
--predic user expenses and give suggestions
+-predict user expenses and give suggestions
